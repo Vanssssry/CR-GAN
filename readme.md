@@ -24,5 +24,5 @@ You can also modify and run `bash.sh` to run experiment automatically.
 
 ### Reference
 
-We build our code base on [AA-BiGAN]:(https://github.com/tbw162/AA-BiGAN)
+We build our code base on [AA-BiGAN](https://github.com/tbw162/AA-BiGAN)
 
