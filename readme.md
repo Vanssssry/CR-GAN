@@ -10,10 +10,10 @@ You can use following command:
 
 The meaning of partial arguments in command are shown as below:
 
-> --gamma_p   the parameter controlling the ratio of contamination
-> --gamma_l    the parameter controlling the ratio of observed anomalous data
-> --gamma_a   the parameter controlling the ratio of observed normal data
-> --k                the parameter controlling the number of types of observed anomalous  
+> --gamma_p   the parameter controlling the ratio of contamination \\
+> --gamma_l    the parameter controlling the ratio of observed anomalous data \\
+> --gamma_a   the parameter controlling the ratio of observed normal data \\
+> --k                the parameter controlling the number of types of observed anomalous  \\
 > --nk              the parameter controlling the number of types of normal data
 
 
